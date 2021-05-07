@@ -4,7 +4,7 @@
 #
 Name     : gmpy2
 Version  : 2.0.8
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/90/f4/9a2e384b325b69bc5827b9a6510a8fb4a51698c915c06a3f25a86458892a/gmpy2-2.0.8.zip
 Source0  : https://files.pythonhosted.org/packages/90/f4/9a2e384b325b69bc5827b9a6510a8fb4a51698c915c06a3f25a86458892a/gmpy2-2.0.8.zip
 Summary  : GMP/MPIR, MPFR, and MPC interface to Python 2.6+ and 3.x
